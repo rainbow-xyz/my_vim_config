@@ -1,0 +1,3 @@
+[submodule "pack/common/start/vim-colors-solarized"]
+	path = pack/common/start/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
