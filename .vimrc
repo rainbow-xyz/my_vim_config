@@ -12,6 +12,9 @@ syntax on
 " 分别表示自动识别文件类型，用文件类型脚本，使用缩进定义文件
 filetype plugin indent on
 
+" 解决vim中delete键失效
+set backspace=indent,eol,start
+
 " 显示行号
 set number
 
